@@ -1,2 +1,2 @@
-Xiaolan Wan's Person Website link:
+Xiaolan Wan's Personal Website link:
 https://xlanwan.github.io/

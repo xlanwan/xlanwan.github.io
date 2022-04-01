@@ -2,4 +2,5 @@
 layout: default
 ---
 
-Hello Everyone
+Hello Everyone!
+Welcome to Xiaolan Wan's Personal Website.
